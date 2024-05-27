@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman (@amanksh05), currently pursuing B.tech CSE form Dayananda Sagar College of Engineering
-- 👀 I’m interested in Web Development, competitive programming and editing pictures :)
+- 👀 UI/UX DESIGNER || WEB DEVELOPER || JETPACK COMPOSE
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on new projects wich can build my skills.
 - 📫 Reach me through amanksh05@gmail.com

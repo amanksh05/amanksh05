@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman (@amanksh05), self learned dessigner building web application currently pursuing B.tech CSE form Dayananda Sagar College of Engineering
+- 👋 Hi, I’m Aman (@amanksh05), self learned designer building web application currently pursuing B.tech CSE from Dayananda Sagar College of Engineering
 - 👀 UI/UX DESIGNER || WEB DEVELOPER || JETPACK COMPOSE
 - 📫 Reach me through amanksh05@gmail.com
 
